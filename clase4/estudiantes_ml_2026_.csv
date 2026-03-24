@@ -1,0 +1,26 @@
+nombre,edad,ciudad,pais,genero,nivel_previo,horas_estudio_semana,promedio,modulos_completados,activo,fecha_ingreso,trabaja_actualmente,salario_usd,objetivo
+Valentina Torres,28,Bogotá,Colombia,F,intermedio,12,8.7,3,True,2024-09-01,True,1200,cambio de carrera
+Carlos Mendoza,34,Ciudad de México,México,M,básico,8,5.2,1,True,2024-09-01,True,800,ascenso laboral
+Anita Ruiz,25,Medellín,Colombia,F,básico,15,9.1,3,True,2024-09-01,False,0,primer empleo tech
+Jorge Ramírez,41,Lima,Perú,M,avanzado,6,7.4,2,True,2024-09-01,True,2100,emprendimiento
+Daniela Soto,29,Santiago,Chile,F,intermedio,10,6.8,2,True,2024-09-01,True,1500,cambio de carrera
+Miguel Flores,37,Guadalajara,México,M,básico,4,4.1,1,False,2024-09-01,True,900,ascenso laboral
+Laura Gómez,31,Cali,Colombia,F,básico,11,7.9,2,True,2024-09-01,False,0,cambio de carrera
+Sebastián Castro,26,Buenos Aires,Argentina,M,intermedio,14,8.3,3,True,2024-09-01,True,1100,emprendimiento
+Camila Vargas,33,Quito,Ecuador,F,básico,9,6.1,2,True,2024-09-01,True,700,primer empleo tech
+Andrés Herrera,45,Barranquilla,Colombia,M,avanzado,5,7.2,2,True,2024-09-01,True,2500,emprendimiento
+Paula Jiménez,27,Montevideo,Uruguay,F,básico,13,8.5,3,True,2024-09-01,False,0,cambio de carrera
+Ricardo López,39,Caracas,Venezuela,M,intermedio,7,5.8,1,True,2024-09-01,True,600,cambio de carrera
+Isabella Martínez,24,Medellín,Colombia,F,básico,16,9.4,3,True,2024-09-01,False,0,primer empleo tech
+Fernando Díaz,52,Bogotá,Colombia,M,avanzado,3,,0,False,2024-09-01,True,3200,emprendimiento
+Natalia Romero,30,Cartagena,Colombia,F,intermedio,11,7.6,2,True,2024-09-01,True,1300,cambio de carrera
+Diego Morales,28,La Paz,Bolivia,M,básico,10,6.4,2,True,2024-09-01,True,500,primer empleo tech
+Sofía Reyes,35,Ciudad de México,México,F,intermedio,8,7.1,2,True,2024-09-01,True,1400,ascenso laboral
+Alejandro Núñez,23,Bogotá,Colombia,M,básico,18,9.2,3,True,2024-09-01,False,0,primer empleo tech
+Mariana Castillo,43,Asunción,Paraguay,F,avanzado,6,6.9,2,True,2024-09-01,True,1800,emprendimiento
+Luis Prada,31,Cúcuta,Colombia,M,básico,9,,1,True,2024-09-01,True,750,ascenso laboral
+Carlos Mendoza,34,Ciudad de México,México,M,básico,8,5.2,1,True,2024-09-01,True,800,ascenso laboral
+Andrea Fuentes,26,Bogotá,Colombia,F,intermedio,12,8.1,3,True,2024-09-01,False,0,cambio de carrera
+Tomás Aguirre,38,Córdoba,Argentina,M,avanzado,5,7.8,2,True,2024-09-01,True,1900,emprendimiento
+Valeria Peña,29,Bucaramanga,Colombia,F,básico,14,8.9,3,True,2024-09-01,False,0,primer empleo tech
+José Moreno,47,Ciudad de Panamá,Panamá,M,intermedio,4,5.5,1,True,2024-09-01,True,2200,ascenso laboral

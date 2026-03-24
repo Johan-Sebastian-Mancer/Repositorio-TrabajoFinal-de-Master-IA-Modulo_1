@@ -1,0 +1,21 @@
+id,nombre,edad,ciudad,cursos_previos,promedio,activo
+1,Laura Gómez,42,Medellín,0,8.3,True
+2,Carlos Pérez,29,Cali,1,7.9,True
+3,Anita Ruiz,40,Pereira,0,3.7,True
+4,Juan Torres,29,Bogotá,8,4.8,False
+5,María López,29,Manizales,4,8.8,True
+6,Andrés Castro,27,Pereira,5,5.3,True
+7,Sofía Herrera,32,Medellín,1,6.0,True
+8,Diego Martínez,33,Cartagena,0,8.2,True
+9,Valentina Ríos,34,Medellín,8,5.4,True
+10,Felipe Mora,40,Barranquilla,1,3.8,True
+11,Camila Vargas,31,Medellín,3,9.1,False
+12,Sebastián Díaz,30,Manizales,5,4.6,True
+13,Isabella Ramírez,28,Cartagena,1,7.5,True
+14,Mateo Suárez,39,Barranquilla,2,6.5,True
+15,Lucía Fernández,42,Barranquilla,5,9.0,True
+16,Daniel Ortega,29,Bogotá,5,6.1,True
+17,Gabriela Mendoza,28,Bucaramanga,3,7.8,False
+18,Alejandro Flores,42,Manizales,2,5.2,True
+19,Natalia Reyes,45,Cartagena,6,9.3,False
+20,Ricardo Rojas,33,Barranquilla,2,6.8,True
