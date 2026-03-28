@@ -2,7 +2,7 @@
 
 Johan Sebastian Manchola Cervera
 _______________________________________________________________________.
-DESCRIPCIÓ  DEL DATASET
+## DESCRIPCIÓ  DEL DATASET
 
     Este proyecto realiza un análisis exploratorio sobre un conjunto de datos global que mide diversos factores de bienestar y salud pública.
 
@@ -13,7 +13,7 @@ DESCRIPCIÓ  DEL DATASET
     Fuente: Datos proporcionados para el Máster en IA & Data Science | DevSeniorCode (archivo salud_mundial.csv).
 
 _______________________________________________________________________.
-CÓMO EJECUTAR EL PROYECTO
+## CÓMO EJECUTAR EL PROYECTO
 
     Sigue estos pasos para configurar el entorno y ejecutar el análisis en tu máquina local:
 
@@ -32,7 +32,7 @@ CÓMO EJECUTAR EL PROYECTO
     jupyter notebook
     Ejecutar celdas: Corre todas las celdas (Kernel → Restart & Run All) para procesar los datos y ver los resultados.
 _______________________________________________________________________.
-HALLAZGOS PRINCIPALES
+## HALLAZGOS PRINCIPALES
 
 Tras realizar el Análisis Exploratorio de Datos (EDA) con Pandas, se obtuvieron las siguientes conclusiones:
 
@@ -43,7 +43,7 @@ Desigualdad en el Gasto Sanitario: Existe una brecha masiva en la inversión de 
 Relación entre Desarrollo y Salud: Los países con "Muy Alto" nivel de ingresos muestran una esperanza de vida promedio significativamente superior (81.39 años) y una mortalidad infantil mucho menor (4.07) en comparación con los países de bajos ingresos, que tienen una esperanza de vida de 60.36 años y una mortalidad de 65.05.
 
 _______________________________________________________________________.
-TECNOLOGIAS USADAS
+## TECNOLOGIAS USADAS
 
 Python: Lenguaje principal para la lógica y funciones de clasificación.
 
